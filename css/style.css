@@ -1,0 +1,68 @@
+header {
+    justify-content: center;
+    display: flex;
+    position: relative;
+    bottom: 30px;            
+}
+
+nav {
+    display: flex;
+    margin-left: 150px;
+
+}
+
+.menu-item {
+    list-style-type: none;
+    margin-right: 50px;
+    font-weight: 700;
+    color: rgb(56, 56, 56);
+}
+
+.menu {
+    display: flex;
+}
+
+.Products {
+    border: none;
+    font-weight: 700;
+    color: rgb(56, 56, 56);
+}
+
+.butFree {
+    border-radius: 5px;
+    background-color: #2a77c9;
+    color: white;
+    height: 50px;
+    width: 150px;
+    font-weight: 700;        
+}
+
+.Logo {
+    position: relative;
+    top: 50px;
+    height: 44px;
+    width: 115px;    
+}
+
+.container {
+    width: 1170px;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.but30 {
+    border-radius: 5px;
+    background-color: #2a77c9;
+    color: white;
+    height: 50px;
+    width: 150px;
+    font-weight: 700;
+}
+span {
+    background-image: url("img/Shield-icon.png");
+    background-repeat: no-repeat;
+    padding-left: 20px; 
+    /* display: inline-block;
+    margin-right: 20px;  */
+}
